@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderSparsh08
-- 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in programming alot
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
