@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderSparsh08
 - 👀 I’m interested in programming alot
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 
 
 <!---
